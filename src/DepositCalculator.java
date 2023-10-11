@@ -41,4 +41,5 @@ public class DepositCalculator {
         }
         System.out.println("Результат вклада: " + amount + " за " + period + " лет превратятся в " + profit);
     }
+
 }
